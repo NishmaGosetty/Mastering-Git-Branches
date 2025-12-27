@@ -43,11 +43,11 @@ This command saves a snapshot of your project in Git.
 
 Here is a step-by-step task to practice committing changes.
 
-![Introduction to git commits task](intro_sequ_task1_1.png)
+![Introduction to git commits task](images/intro_sequ_task1_1.png)
 
 The goal that needs to be reached after performing the task is as follow:
 
-![Introduction to git commits task goal](intro_sequ_task1_2.png)
+![Introduction to git commits task goal](images/intro_sequ_task1_2.png)
 
 The task can be performed by running the following commands:  
 Step 1 :
