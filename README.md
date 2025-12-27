@@ -1,4 +1,5 @@
 # Mastering Git Branches
+
 A step-by-step guide to learning Git branching using the interactive [Learn Git Branching](https://learngitbranching.js.org/) website.
 
 # Table of Contents
@@ -24,12 +25,14 @@ Happy Branching!🌱
 ### Introduction to Git Commits
 
 #### Concept
-A commit records a snapshot of all tracked files in a Git repository.
-Instead of copying the entire directory on every commit, Git stores commits efficiently by saving only the changes (deltas) between versions when possible.
-Git maintains a history of commits, where most commits have ancestor commits. These relationships form a commit history, which is commonly visualized using arrows.
-Commits are lightweight, and switching between them is fast.
+
+A commit records a snapshot of all tracked files in a Git repository.  
+Instead of copying the entire directory on every commit, Git stores commits efficiently by saving only the changes (deltas) between versions when possible.  
+Git maintains a history of commits, where most commits have ancestor commits. These relationships form a commit history, which is commonly visualized using arrows.  
+Commits are lightweight, and switching between them is fast.  
 
 #### Command 
+
 the command that is used to perform commit is:
 ```bash
 git commit
@@ -37,15 +40,16 @@ git commit
 This command saves a snapshot of your project in Git. 
 
 #### Performing the Task
-Here is a step-by-step task to practice committing
+
+Here is a step-by-step task to practice committing changes.
 
 ![Introduction to git commits task](intro_sequ_task1_1.png)
 
-The Goal that need to be reached after performing the task is as follow:
+The goal that needs to be reached after performing the task is as follow:
 
 ![Introduction to git commits task goal](intro_sequ_task1_2.png)
 
-The Task can be performed by running the following commands:
+The task can be performed by running the following commands:  
 Step 1 :
 ```bash
 git commit
@@ -55,4 +59,4 @@ Step 2 :
 ```bash
 git commit
 ```
-The goal is successfully achieved, and your task is completed.
+The goal is successfully achieved, and the task is now complete.
